@@ -1,0 +1,13 @@
+﻿body { background: white;
+		background-image: none;
+		color: black;
+		font-family: sans-serif;}	
+
+a { text-decoration: underline;}		
+
+img,#wowslider-container1,#menu,#idioma,.social { display: none;}
+
+#direccion h2,#horario h2 { font-size: 11pt;}
+
+#lateral { page-break-before: always;}
+
